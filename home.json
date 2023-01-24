@@ -2,7 +2,7 @@
   "banners": [
     {
       "id": "9d655601-282f-4e1e-82b1-30bebe8ddba3",
-      "image": "",
+      "image": "https://www.leomax.ru/upload/iblock/767/767c391fbe6f8897090bd47147bfb3b7_thumb_b6852c34766256a79201460f2fa73300.jpg",
       "type": "Card",
       "link": "",
       "destinationID": "1fd5d06e-b2d3-465b-9ace-9a87aae12ac9"
@@ -13,7 +13,7 @@
       "id": "808a5f3c-0a11-4aef-92f6-20cf966157c3",
       "preview": "",
       "type": "Image",
-      "source": "",
+      "source": "https://www.leomax.ru/upload/iblock/767/767c391fbe6f8897090bd47147bfb3b7_thumb_b6852c34766256a79201460f2fa73300.jpg",
       "isViewed": false,
       "link": "",
       "cardId": "6aef89ff-331d-4d90-b859-5d524a0a254e",
@@ -49,7 +49,7 @@
     {
       "id": "e6bd22a4-6c7c-4778-941d-4780972974f0",
       "name": "Одежда",
-      "image": "https://image.jpeg"
+      "image": "https://www.leomax.ru/upload/iblock/767/767c391fbe6f8897090bd47147bfb3b7_thumb_b6852c34766256a79201460f2fa73300.jpg"
     }
   ]
 }
