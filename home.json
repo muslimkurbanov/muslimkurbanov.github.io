@@ -1,0 +1,55 @@
+{
+  "banners": [
+    {
+      "id": "9d655601-282f-4e1e-82b1-30bebe8ddba3",
+      "image": "",
+      "type": "Card",
+      "link": "",
+      "destinationID": "1fd5d06e-b2d3-465b-9ace-9a87aae12ac9"
+    }
+  ],
+  "stories": [
+    {
+      "id": "808a5f3c-0a11-4aef-92f6-20cf966157c3",
+      "preview": "",
+      "type": "Image",
+      "source": "",
+      "isViewed": false,
+      "link": "",
+      "cardId": "6aef89ff-331d-4d90-b859-5d524a0a254e",
+      "categoryId": "4f0ce557-92c6-4ec4-b859-18f1e832c03d",
+      "actionText": ""
+    }
+  ],
+  "broadcast": {
+    "image": "",
+    "product": {
+      "id": "6357f590-5816-465f-8abc-39b9b79e0f31",
+      "code": "12345",
+      "name": "Название товара",
+      "image": "https://image.jpeg",
+      "isFavorite": false,
+      "oldPrice": 799,
+      "price": 499,
+      "discount": 38,
+      "quantityInCart": 1,
+      "isAvailable": true,
+      "bonuses": 25,
+      "bage": {
+        "text": "Новинка",
+        "color": "#FF0000"
+      },
+      "ratingByReviews": 4.3,
+      "reviewsCount": 6,
+      "modifications": "3 цвета",
+      "deliveryDate": "5 января"
+    }
+  },
+  "categories": [
+    {
+      "id": "e6bd22a4-6c7c-4778-941d-4780972974f0",
+      "name": "Одежда",
+      "image": "https://image.jpeg"
+    }
+  ]
+}
