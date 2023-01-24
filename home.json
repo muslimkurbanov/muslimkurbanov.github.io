@@ -2,11 +2,25 @@
   "banners": [
     {
       "id": "9d655601-282f-4e1e-82b1-30bebe8ddba3",
-      "image": "https://www.leomax.ru/upload/iblock/767/767c391fbe6f8897090bd47147bfb3b7_thumb_b6852c34766256a79201460f2fa73300.jpg",
+      "image": "https://www.leomax.ru/upload/iblock/ca9/ca9957666633bd1d0fd19df4b1e40a19_thumb_f2e5218be6e60e59c6182a0433405e9c.jpg",
       "type": "Card",
       "link": "",
       "destinationID": "1fd5d06e-b2d3-465b-9ace-9a87aae12ac9"
-    }
+    },
+     {
+      "id": "9d655601-282f-4e1e-82b1-30bebe8ddba3",
+      "image": "https://www.leomax.ru/upload/iblock/ca9/ca9957666633bd1d0fd19df4b1e40a19_thumb_f2e5218be6e60e59c6182a0433405e9c.jpg",
+      "type": "Card",
+      "link": "",
+      "destinationID": "1fd5d06e-b2d3-465b-9ace-9a87aae12ac9"
+    },
+     {
+      "id": "9d655601-282f-4e1e-82b1-30bebe8ddba3",
+      "image": "https://www.leomax.ru/upload/iblock/ca9/ca9957666633bd1d0fd19df4b1e40a19_thumb_f2e5218be6e60e59c6182a0433405e9c.jpg",
+      "type": "Card",
+      "link": "",
+      "destinationID": "1fd5d06e-b2d3-465b-9ace-9a87aae12ac9"
+    },
   ],
   "stories": [
     {
