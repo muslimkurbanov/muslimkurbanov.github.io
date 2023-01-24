@@ -25,9 +25,9 @@
   "stories": [
     {
       "id": "808a5f3c-0a11-4aef-92f6-20cf966157c3",
-      "preview": "https://www.leomax.ru/upload/iblock/767/767c391fbe6f8897090bd47147bfb3b7_thumb_b6852c34766256a79201460f2fa73300.jpg",
+      "preview": "https://www.leomax.ru/upload/iblock/3b0/3b0836dc0e1bbb36b5a39b0a5bb02472_thumb_82be60b0d86b87b21ebea2a3dde8a5ce.jpg",
       "type": "Image",
-      "source": "https://www.leomax.ru/upload/iblock/767/767c391fbe6f8897090bd47147bfb3b7_thumb_b6852c34766256a79201460f2fa73300.jpg",
+      "source": "https://www.leomax.ru/upload/iblock/3b0/3b0836dc0e1bbb36b5a39b0a5bb02472_thumb_82be60b0d86b87b21ebea2a3dde8a5ce.jpg",
       "isViewed": false,
       "link": "",
       "cardId": "6aef89ff-331d-4d90-b859-5d524a0a254e",
@@ -41,7 +41,7 @@
       "id": "6357f590-5816-465f-8abc-39b9b79e0f31",
       "code": "12345",
       "name": "Название товара",
-      "image": "https://www.leomax.ru/upload/iblock/767/767c391fbe6f8897090bd47147bfb3b7_thumb_b6852c34766256a79201460f2fa73300.jpg",
+      "image": "https://www.leomax.ru/upload/iblock/3b0/3b0836dc0e1bbb36b5a39b0a5bb02472_thumb_82be60b0d86b87b21ebea2a3dde8a5ce.jpg",
       "isFavorite": false,
       "oldPrice": 799,
       "price": 499,
@@ -63,7 +63,28 @@
     {
       "id": "e6bd22a4-6c7c-4778-941d-4780972974f0",
       "name": "Одежда",
-      "image": "https://www.leomax.ru/upload/iblock/767/767c391fbe6f8897090bd47147bfb3b7_thumb_b6852c34766256a79201460f2fa73300.jpg"
-    }
+      "image": "https://www.leomax.ru/upload/iblock/3b0/3b0836dc0e1bbb36b5a39b0a5bb02472_thumb_82be60b0d86b87b21ebea2a3dde8a5ce.jpg"
+    },
+     {
+      "id": "e6bd22a4-6c7c-4778-941d-4780972974f0",
+      "name": "Одежда",
+      "image": "https://www.leomax.ru/upload/iblock/3b0/3b0836dc0e1bbb36b5a39b0a5bb02472_thumb_82be60b0d86b87b21ebea2a3dde8a5ce.jpg"
+    },
+     {
+      "id": "e6bd22a4-6c7c-4778-941d-4780972974f0",
+      "name": "Одежда",
+      "image": "https://www.leomax.ru/upload/iblock/3b0/3b0836dc0e1bbb36b5a39b0a5bb02472_thumb_82be60b0d86b87b21ebea2a3dde8a5ce.jpg"
+    },
+     {
+      "id": "e6bd22a4-6c7c-4778-941d-4780972974f0",
+      "name": "Одежда",
+      "image": "https://www.leomax.ru/upload/iblock/3b0/3b0836dc0e1bbb36b5a39b0a5bb02472_thumb_82be60b0d86b87b21ebea2a3dde8a5ce.jpg"
+    },
+     {
+      "id": "e6bd22a4-6c7c-4778-941d-4780972974f0",
+      "name": "Одежда",
+      "image": "https://www.leomax.ru/upload/iblock/3b0/3b0836dc0e1bbb36b5a39b0a5bb02472_thumb_82be60b0d86b87b21ebea2a3dde8a5ce.jpg"
+    },
+    
   ]
 }
