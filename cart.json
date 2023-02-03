@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": 23,
+      "articul": "23-31",
+      "name": "Название товара",
+      "image": "https//logo",
+      "is_favorite": false,
+      "old_price": 799,
+      "new_price": 499,
+      "discount": 20,
+      "count_in_basket": 0,
+      "is_available": true,
+      "bonuses": 55,
+      "promo": "Ликвадация",
+      "promo_color": "#E65D5B",
+      "rating": 4.3,
+      "ratingCount": 6,
+      "modification": "3 цвета",
+      "deliveryDate": "5 января"
+    },
+    {
+      "id": 25,
+      "articul": "25-31",
+      "name": "Название товара",
+      "image": "https//logo",
+      "is_favorite": false,
+      "old_price": 899,
+      "new_price": 599,
+      "discount": 20,
+      "count_in_basket": 0,
+      "is_available": true,
+      "bonuses": 55,
+      "promo": "Новинка",
+      "promo_color": "#F2AC4A",
+      "rating": 4.3,
+      "ratingCount": 6,
+      "modification": "3 цвета",
+      "deliveryDate": "5 января"
+    }
+  ],
+  "removed_products": [
+    {
+      "id": 4353454,
+      "articul": "SDVSDV",
+      "image": "https//logo",
+      "name": "Название товара",
+      "count": 1,
+      "is_favorite": true,
+      "is_available": true
+    }
+  ],
+  "moscow_card": {
+    "nubmer": 213122,
+    "series": 11,
+    "action": "-10%",
+    "action_color": "#7EAC5D"
+  },
+  "promocode": {
+    "nubmer": "32423423423423",
+    "action": "Подарок",
+    "action_color": "#E65D5B"
+  },
+  "total": {
+    "price_products": 1699,
+    "total": 1400,
+    "price_delivery": 1699,
+    "price_discount": 100,
+    "discounts": [
+      {
+        "name": "Скидки на товар",
+        "value": 599
+      },
+      {
+        "name": "Бонусы",
+        "value": 50
+      },
+      {
+        "name": "Промокод",
+        "value": 50
+      },
+      {
+        "name": "Карта москвича",
+        "value": 400
+      }
+    ]
+  }
+}
