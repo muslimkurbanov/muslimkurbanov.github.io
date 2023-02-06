@@ -65,7 +65,7 @@
       "price":1999,
       "discount":50,
       "quantityInCart":1,
-      "isAvailable":true,
+      "isAvailable":false,
       "bonuses":25,
       "bage":{
          "text":"Новинка",
